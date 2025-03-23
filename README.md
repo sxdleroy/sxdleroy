@@ -40,9 +40,9 @@ def dev_stats():
 print(dev_stats())
 ```
 ## 📊 My GitHub Stats
-![General Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula)
+![General Stats](https://github-readme-stats.vercel.app/api?username=sxdleroy&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sxdleroy&layout=compact&theme=dracula)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxdleroy&theme=dracula)
 
 ## 👀 Profile Views
 ![Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
