@@ -39,11 +39,13 @@ def dev_stats():
     return f"Mastery Level: {len(languages)}/∞"
 print(dev_stats())
 ```
+## 📊 My GitHub Stats
+![General Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourwakatimeusername&theme=dracula)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+## 👀 Profile Views
+![Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ---
 
