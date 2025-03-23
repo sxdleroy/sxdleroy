@@ -45,7 +45,7 @@ print(dev_stats())
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxdleroy&theme=dracula)
 
 ## 👀 Profile Views
-![Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Views](https://komarev.com/ghpvc/?username=sxdleroy&color=blue)
 
 ---
 
