@@ -25,18 +25,9 @@ $ ./run_dev.sh
 Dive into my repository vault—where clean code meets wild ideas. Here’s what’s running on my main thread:
 
 ### 🔥 Hot Projects
-- **[Project Name]**  
-  `git clone git@github.com:yourusername/project-name.git`  
-  A [description] powered by React, Tailwind CSS, and SQL. *Features*: Responsive UI + blazing-fast queries.
-
-- **[Another Project]**  
-  `mvn install java-awesomeness`  
-  [Description] - Built with Java and C#. *Status*: `Thread.sleep(0)`—it’s always awake.
-
-- **[Python Script]**  
-  `python3 epic_script.py`  
-  [Description] - Python + SQL magic for [purpose]. *Exit Code*: 0 (success!).
-
+- **portfolio**  
+  `git clone git@github.com:sxdleroy/portfolio.git`  
+  A portfolio of myself
 ---
 
 ## ⚙️ System Metrics
@@ -55,16 +46,16 @@ print(dev_stats())
 ---
 
 ## 🧑‍💻 Current Code Block
-- **Mission**: Building [what you’re working on] with [specific tech, e.g., React + Tailwind]
+- **Mission**: Aspiring full stack developer, building clean code with VS
 - **Error Log**: `NullPointerException` (Java’s revenge)
 - **Next Commit**: Refactoring for cleaner SQL joins
 
 ---
 
 ## 🌐 Ping My Stack
-- **X**: [@YourHandle] - Dropping CSS tricks and Python one-liners
-- **Portfolio**: [yourwebsite.com] - HTML + CSS showcase
-- **Email**: `your.email@domain.com` - For code reviews or collabs
+- **X**: [@rxkuu] - Dropping CSS tricks and Python one-liners
+- **Portfolio**: [leroyhing.dev] - work-in-progress
+- **Email**: `leroy.hing@gmail.com` - For code reviews or collabs
 
 ```csharp
 public static void Main(string[] args) {
