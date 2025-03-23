@@ -71,4 +71,3 @@ public static void Main(string[] args) {
 
 > *“Good code is like a well-structured SQL table: efficient, readable, and no duplicates.”*  
 > — Me, after fixing a CSS bug at 2 AM
-```
