@@ -1,9 +1,9 @@
 ```markdown
-# 💾 [Your Name] - Code Architect & Syntax Sorcerer 💾
+# 💾 Leroy Hing - Code Architect & Syntax Sorcerer 💾
 
 ```bash
 $ ./run_dev.sh
-> Initializing [Your Name]...
+> Initializing sxdleroy...
 > Compiling skills: CSS, HTML, Java, Tailwind, React, SQL, C#, Python
 > Output: "Ready to debug the matrix!"
 ```
