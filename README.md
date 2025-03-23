@@ -11,12 +11,12 @@ $ ./run_dev.sh
 ---
 
 ## 🖥️ Dev Environment
-- **Kernel**: Human v[Your Age].x - Optimized for late-night coding
+- **Kernel**: Human v26.x - Optimized for late-night coding
 - **Toolbox**:  
   - **Frontend**: HTML 🌐 | CSS 🎨 | React ⚛️ | Tailwind CSS 💨  
   - **Backend**: Java ☕ | C# 🛠️ | Python 🐍  
   - **Data**: SQL 🗃️  
-- **IDE**: [Your Favorite IDE] - With 42 plugins and counting
+- **IDE**: Visual Code - With 42 plugins and counting
 - **Uptime**: 99% (1% reserved for `git push` celebrations)
 
 ---
@@ -79,11 +79,3 @@ public static void Main(string[] args) {
 ```
 
 ---
-
-### Customization Notes:
-- Replace `[Your Name]`, `[Your Age]`, `yourusername`, etc., with your details.
-- Update the "Hot Projects" section with your real projects, linking to their repos and specifying the tech used (e.g., "React + Tailwind" or "C# + SQL").
-- Swap `[Your Favorite IDE]` for something like "VS Code" or "IntelliJ".
-- Tweak the tone or add more languages if you want (e.g., TypeScript, PHP).
-
-This version leans hard into the programming theme with code snippets in multiple languages (Bash, Python, C#) and a focus on your specified stack. Want more terminal vibes or a specific project highlighted? Let me know!
