@@ -50,7 +50,7 @@ print(dev_stats())
 ---
 
 ## 🧑‍💻 Current Code Block
-- **Mission**: Aspiring full stack developer, building clean code with VS
+- **Mission**: Create clean code through web apps
 - **Error Log**: `NullPointerException` (Java’s revenge)
 - **Next Commit**: Refactoring for cleaner SQL joins
 
