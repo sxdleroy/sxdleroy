@@ -42,7 +42,6 @@ print(dev_stats())
 ## 📊 My GitHub Stats
 ![General Stats](https://github-readme-stats.vercel.app/api?username=sxdleroy&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sxdleroy&layout=compact&theme=dracula)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sxdleroy&theme=transparent)](https://git.io/streak-stats)
 
 ## 👀 Profile Views
 ![Views](https://komarev.com/ghpvc/?username=sxdleroy&color=blue)
