@@ -1,5 +1,5 @@
 ```markdown
-# 💾  - Code Architect & Syntax Sorcerer 💾
+# 💾 Leroy Hing - Code Architect & Syntax Sorcerer 💾
 
 ```bash
 $ ./run_dev.sh
