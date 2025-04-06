@@ -4,7 +4,7 @@
 ```bash
 $ ./run_dev.sh
 > Initializing sxdleroy...
-> Compiling skills: CSS, HTML, Java, Tailwind, React, SQL, C#, Python
+> Compiling skills: CSS, HTML, Java, Tailwind, React, SQL, C#, Python, C++
 > Output: "Ready to debug the matrix!"
 ```
 
